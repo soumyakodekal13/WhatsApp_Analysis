@@ -1,1 +1,3 @@
 # WhatsApp_Analysis
+A stream lit App to Aanalyze your whatsApp Charts.
+Analyzing WhatsApp chats can provide valuable insights into communication patterns, sentiment, and trends within a group or between individuals. This information can be useful for understanding group dynamics, making data-driven decisions, and improving communication strategies. It can also help identify potential issues or conflicts and facilitate better problem-solving. Additionally, analyzing WhatsApp chats can be helpful for businesses to better understand customer needs and preferences, and to improve customer service.
